@@ -1,68 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# :trollface: Crazy-Meme-Generator :trollface:
 
-## Available Scripts
+:rage3: **[Check out the deployed version here](https://crazy-meme-generator.netlify.com)** :rage3:
 
-In the project directory, you can run:
+## What this project is about
 
-### `npm start`
+This is a simple reactJS application that generates random memes upon the user entered text.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Table of Contents:
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+* **[Technologies used]()**
+* **[Goals for this project]()**
+* **[Useful references]()**
+* **[create-react-app docs]()**
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Technologies used
 
-### `npm run build`
+:eyes::point_down:**Click links to view some samples in this project** :point_down::eyes:
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* **[react]()**
+* **[javascript]()**
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Goals for this project
 
-### `npm run eject`
+* To practice for myself
+* How to fetch the data from API
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### My git workflow
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+In this project i tried to use:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* meaningful component names
+* time-to-time pushes
+* proper commit messages
 
-## Learn More
+### Useful references
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* **[react](https://reactjs.org/docs/getting-started.html)**
+* **[markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)**
+* **[HEX color code picker](https://flatuicolors.com/)**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### create-react-app docs
 
-### Code Splitting
+This project is bootstrapped using the create-react-app cli.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[The standard create-react-app docs can be found here]()
