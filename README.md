@@ -1,3 +1,7 @@
+Meme Generator
+
+https://crazy-meme-generator.netlify.com
+
 Simple Meme-Generator react application that generates Memes randomly upon clicking the 'Gen' button.
 It generates memes based upon the user entered text in the input fields and displays the text on the Meme.
 
