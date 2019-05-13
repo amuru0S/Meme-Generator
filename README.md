@@ -1,4 +1,4 @@
-# :trollface: Crazy-Meme-Generator :trollface:
+# :trollface::trollface: Crazy-Meme-Generator :trollface::trollface:
 
 :rage3: **[Check out the deployed version here](https://crazy-meme-generator.netlify.com)** :rage3:
 
@@ -6,20 +6,21 @@
 
 This is a simple reactJS application that generates random memes upon the user entered text.
 
-### Table of Contents:
+### Table of Contents
 
-* **[Technologies used]()**
-* **[Goals for this project]()**
-* **[Useful references]()**
-* **[create-react-app docs]()**
+* **[Technologies used](https://github.com/amuru0S/Meme-Generator#technologies-used)**
+* **[Goals for this project](https://github.com/amuru0S/Meme-Generator#goals-for-this-project)**
+* **[My git workflow](https://github.com/amuru0S/Meme-Generator#my-git-workflow)**
+* **[Useful references](https://github.com/amuru0S/Meme-Generator#useful-references)**
+* **[create-react-app docs](https://github.com/amuru0S/Meme-Generator#create-react-app-docs)**
 
 
 ### Technologies used
 
 :eyes::point_down:**Click links to view some samples in this project** :point_down::eyes:
 
-* **[react]()**
-* **[javascript]()**
+* **[react](https://github.com/amuru0S/Meme-Generator/blob/master/src/App.js)**
+* **[fetching data from API](https://github.com/amuru0S/Meme-Generator/blob/master/src/MemeGenerator.js)**
 
 
 ### Goals for this project
